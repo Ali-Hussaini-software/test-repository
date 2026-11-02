@@ -26,3 +26,8 @@
     background-color: black;
     cursor: pointer;
 }
+
+.container {
+    height: 500px;
+    background-color: blue;
+}
